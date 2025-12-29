@@ -4,5 +4,6 @@
 4. [Dự án CK 1 HĐTNHN 7 25-26.docx](https://github.com/user-attachments/files/24347977/D.an.CK.1.HDTNHN.7.25-26.docx)
 5. [GDĐP 7_HỒ SƠ DỰ ÁN HỌC TẬP CUỐI KH I (1).docx](https://github.com/user-attachments/files/24347997/GDDP.7_H.S.D.AN.H.C.T.P.CU.I.KH.I.1.docx)
 6. [Nội dung ôn cuối kì 1 văn 7 25-26.docx](https://github.com/user-attachments/files/24348000/N.i.dung.on.cu.i.ki.1.van.7.25-26.docx)
-
+7. https://vietjack.com/de-kiem-tra-lop-7/de-kiem-tra-cong-nghe-7-hoc-ki-1.jsp
+8. https://vietjack.com/de-kiem-tra-lop-7/de-thi-hoc-ki-1-cong-nghe-lop-7-ket-noi.jsp
 
