@@ -6,4 +6,5 @@
 6. [Nội dung ôn cuối kì 1 văn 7 25-26.docx](https://github.com/user-attachments/files/24348000/N.i.dung.on.cu.i.ki.1.van.7.25-26.docx)
 7. https://vietjack.com/de-kiem-tra-lop-7/de-kiem-tra-cong-nghe-7-hoc-ki-1.jsp
 8. https://vietjack.com/de-kiem-tra-lop-7/de-thi-hoc-ki-1-cong-nghe-lop-7-ket-noi.jsp
+<img width="769" height="758" alt="image" src="https://github.com/user-attachments/assets/c29c9a67-8cdd-4496-ae77-3d0ff32fe3c4" />
 
