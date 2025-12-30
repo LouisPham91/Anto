@@ -10,4 +10,9 @@
 <img width="808" height="366" alt="image" src="https://github.com/user-attachments/assets/7335618e-1e59-45db-a6f3-ccd17e6746ee" />
 <img width="803" height="527" alt="image" src="https://github.com/user-attachments/assets/81009024-2032-4719-b9ef-b8296ebb0d0a" />
 <img width="837" height="829" alt="image" src="https://github.com/user-attachments/assets/9d7d1d60-7dec-4bae-a3df-c862a0a7fa83" />
+Bài 5 - Ấn độ thế kỉ 4 - 19
+<img width="797" height="459" alt="image" src="https://github.com/user-attachments/assets/3a63d751-c4a4-471f-9b5f-030e7c60daf7" />
+
+<img width="805" height="684" alt="image" src="https://github.com/user-attachments/assets/3f6a9f49-8176-47bd-a112-2de3c0931c31" />
+<img width="812" height="759" alt="image" src="https://github.com/user-attachments/assets/4e082d54-97c5-4741-847c-93ee339ded7f" />
 
