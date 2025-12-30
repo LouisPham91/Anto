@@ -7,4 +7,5 @@
 7. https://vietjack.com/de-kiem-tra-lop-7/de-kiem-tra-cong-nghe-7-hoc-ki-1.jsp
 8. https://vietjack.com/de-kiem-tra-lop-7/de-thi-hoc-ki-1-cong-nghe-lop-7-ket-noi.jsp
 <img width="769" height="758" alt="image" src="https://github.com/user-attachments/assets/c29c9a67-8cdd-4496-ae77-3d0ff32fe3c4" />
+<img width="808" height="366" alt="image" src="https://github.com/user-attachments/assets/7335618e-1e59-45db-a6f3-ccd17e6746ee" />
 
