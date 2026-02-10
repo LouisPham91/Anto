@@ -1,4 +1,6 @@
 1.<img width="555" height="1388" alt="image" src="https://github.com/user-attachments/assets/4a860971-75eb-4e74-997c-aaf0a6e71ccd" />
+2. <img width="2032" height="1005" alt="image" src="https://github.com/user-attachments/assets/08271f94-0f2c-469e-b814-d7b10250a219" />
+
 2. [25-26 TRẮC NGHIỆM  ĐỀ CƯƠNG ÔN TẬP CUỐI KỲ I MÔN CÔNG NGHỆ.docx](https://github.com/user-attachments/files/24347947/25-26.TR.C.NGHI.M.D.C.NG.ON.T.P.CU.I.K.I.MON.CONG.NGH.docx)
 3. [NỘI DUNG ÔN TẬP CUỐI HỌC KÌ I GDCD 7.docx](https://github.com/user-attachments/files/24347953/N.I.DUNG.ON.T.P.CU.I.H.C.KI.I.GDCD.7.docx)
 4. [Dự án CK 1 HĐTNHN 7 25-26.docx](https://github.com/user-attachments/files/24347977/D.an.CK.1.HDTNHN.7.25-26.docx)
